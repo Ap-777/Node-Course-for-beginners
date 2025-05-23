@@ -1,4 +1,4 @@
-// edited by dinesh ,  Pranav with Jaypal under Ibrainers LTD
+// edited by dinesh , Ayush Pranav with Jaypal under Ibrainers LTD
 var express = require('express');
 var mysql =  require('mysql');
 var app = express();
